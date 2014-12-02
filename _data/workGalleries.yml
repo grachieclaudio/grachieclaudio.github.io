@@ -1,0 +1,75 @@
+- id: work-1
+  imagefolder: /img/works/work-1
+  images:
+  - name: work-1-1.jpg
+- id: work-2
+  imagefolder: /img/works/work-2
+  images:
+  - name: work-2-1.jpg
+  - name: work-2-2.jpg
+  - name: work-2-3.jpg
+  - name: work-2-4.jpg
+  - name: work-2-5.jpg
+  - name: work-2-6.jpg
+  - name: work-2-7.jpg            
+- id: work-3
+  imagefolder: /img/works/work-3
+  images:
+  - name: work-3-1.jpg
+  - name: work-3-2.jpg
+  - name: work-3-3.jpg
+  - name: work-3-4.jpg
+  - name: work-3-5.jpg
+  - name: work-3-6.jpg
+  - name: work-3-7.jpg  
+  - name: work-3-8.jpg
+- id: work-4
+  imagefolder: /img/works/work-4
+  images:
+  - name: work-4-1.jpg
+  - name: work-4-2.jpg
+  - name: work-4-3.jpg
+  - name: work-4-4.jpg
+- id: work-5
+  imagefolder: /img/works/work-5
+  images:
+  - name: work-5-1.jpg
+  - name: work-5-2.jpg  
+  - name: work-5-3.jpg
+  - name: work-5-4.jpg
+  - name: work-5-5.jpg  
+  - name: work-5-6.jpg
+  - name: work-5-7.jpg
+  - name: work-5-8.jpg  
+  - name: work-5-9.jpg
+  - name: work-5-10.jpg
+  - name: work-5-11.jpg  
+  - name: work-5-12.jpg
+  - name: work-5-13.jpg
+- id: work-6
+  imagefolder: /img/works/work-6
+  images:
+  - name: work-6-1.jpg
+- id: work-7
+  imagefolder: /img/works/work-7
+  images:
+  - name: work-7-1.jpg
+  - name: work-7-2.jpg
+  - name: work-7-3.jpg
+- id: work-8
+  imagefolder: /img/works/work-8
+  images:
+  - name: work-8-1.jpg
+- id: work-9
+  imagefolder: /img/works/work-9
+  images:
+  - name: work-9-1.jpg
+- id: work-10
+  imagefolder: /img/works/work-10
+  images:
+  - name: work-10-1.jpg
+  - name: work-10-2.jpg
+  - name: work-10-3.jpg
+  - name: work-10-4.jpg
+  - name: work-10-5.jpg  
+  - name: work-10-6.jpg  

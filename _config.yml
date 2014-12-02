@@ -1,0 +1,12 @@
+name: "GC Make Up Artist"
+description: "GCMUA Website."
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+highligher: pygments
+
+author: gcmua
