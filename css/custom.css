@@ -12,7 +12,9 @@
     width: 100%; 
 }
 #title, #title > * {
-  z-index: 30; }
+  z-index: 30; 
+  background-color: #f7f7f7;  
+}
 
 #title > div {
   color: #ffffff;
