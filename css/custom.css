@@ -25,6 +25,14 @@
   
 }
 
+.navbar-default .logo img {
+	width: 300px;
+}
+
+.navbar-default.navbar-scroll .logo img{
+	width: 200px;
+}
+
 .header-text {
   padding-bottom: 300px;
 }
