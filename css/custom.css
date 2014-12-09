@@ -42,6 +42,14 @@
 /* #cover img { display: none; } */
 #header { display: none; }
 }
+
+
+@media screen and (min-width: 1441px) {
+/* #cover img { display: none; } */
+.header-text { padding-bottom: 500px; }
+}
+
+
 @media screen and (max-width: 767px) {
 /* 
 #cover video { display: none; }
