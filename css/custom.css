@@ -55,6 +55,7 @@
 #cover video { display: none; }
 #cover img { display: block; }
  */
+.logo img { width: 100px !important; } 
 #header { display: block; }
 #cover { display: none; } 
 #title { display: none; } 
